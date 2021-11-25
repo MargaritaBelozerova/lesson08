@@ -1,0 +1,90 @@
+html {
+  background-color: #f6f6f6;
+  position: relative;
+}
+* {
+  padding: 0px;
+}
+.card {
+  display: inline-block;
+  position: absolute;
+  background-color: #ffffff;
+  width: 1010px;
+  height: 504px;
+  margin-left: -505px;
+  margin-top: 252px;
+  border: 0.7px solid #d7d7d7;
+  top: 50%;
+  left: 50%;
+}
+.button {
+  display: inline-block;
+  position: absolute;
+  background-color: #ec744a;
+  height: 51px;
+  width: 253px;
+  margin-left: 525px;
+  margin-top: 372px;
+}
+.button-label {
+  display: inline-block;
+  position: absolute;
+  font-family: Arial;
+  font-size: 18.8px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+  margin: 16px 39px;
+}
+.img {
+  display: inline-block;
+  position: absolute;
+  margin-left: 49px;
+  margin-top: 65px;
+}
+.price-lable {
+  display: inline-block;
+  position: absolute;
+  font-family: Arial;
+  font-size: 15px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #2f2f2f;
+  margin-left: 525px;
+  margin-top: 252px;
+}
+.price {
+  display: inline-block;
+  position: absolute;
+  font-family: Arial;
+  font-size: 30px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #2f2f2f;
+  margin-left: 527px;
+  margin-top: 289px;
+}
+.header {
+  display: inline-block;
+  position: absolute;
+  font-family: Arial;
+  font-size: 22.5px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #2f2f2f;
+  margin-left: 524px;
+  margin-top: 95px;
+}
+.text {
+  display: inline-block;
+  position: absolute;
+  width: 400px;
+  height: 50px;
+  font-family: Arial;
+  font-size: 15px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #2f2f2f;
+  margin-left: 525px;
+  margin-top: 147px;
+}
